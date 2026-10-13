@@ -1,6 +1,6 @@
-# EcoSort AI — Smart Waste Classifier
+# Kachra-snap — Smart Waste Classifier
 
-EcoSort AI is a React-based web application that helps users classify waste into three categories: Recyclable Waste, Organic Waste, and E-Waste.
+Kachra-snap is a React-based web application that helps users classify waste into three categories: Recyclable Waste, Organic Waste, and E-Waste.
 
 The application uses a custom image classification model exported from Google Teachable Machine and TensorFlow.js for browser-based predictions. It also includes COCO-SSD object detection as a fallback for supported objects.
 
